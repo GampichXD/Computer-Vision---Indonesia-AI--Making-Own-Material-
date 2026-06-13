@@ -1,0 +1,5 @@
+{
+    "python.analysis.supportAllPythonDocuments": true,
+    "python.defaultInterpreterPath": "C:\\Program Files\\Python312\\python.exe",
+    "python.analysis.autoImportCompletions": true
+}
